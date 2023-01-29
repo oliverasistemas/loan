@@ -4,3 +4,6 @@ release/
 .idea/
 .vscode/
 .DS_Store
+/ts-client/node_modules/
+/loand
+/ts-client/package-lock.json
