@@ -1,8 +1,10 @@
 // THIS FILE IS GENERATED AUTOMATICALLY. DO NOT MODIFY.
 
+import LoanLoan from './loan.loan'
 
 
 export default { 
+  LoanLoan: load(LoanLoan, 'loan.loan'),
   
 }
 
